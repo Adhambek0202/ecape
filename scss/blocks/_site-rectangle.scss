@@ -1,0 +1,24 @@
+.site-rectangle {
+    padding: 20px 0px;
+    background-color: #ffffff;
+}
+.site-rectangle__list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.site-rectangle__link {
+    text-decoration: none;;
+    color: #768088;
+}
+@media only screen and (max-width:500px) {
+    .site-rectangle__list {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        list-style: none;
+    }
+    .site-rectangle__item {
+        padding-bottom: 20px;
+    }
+}

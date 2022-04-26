@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,qBAAqB,CAAC;EAClB,UAAU,EAAE,IAAI;CACnB;;AAGD,AAAA,qBAAqB,CAAC;EAClB,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,QAAQ;CAClB",
+    "sources": [
+        "../scss/blocks/site__rectangle.scss"
+    ],
+    "names": [],
+    "file": "site__rectangle.css"
+}
